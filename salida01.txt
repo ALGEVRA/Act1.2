@@ -1,0 +1,14 @@
+Size: 20
+Key: 93
+
+Bubble Sort:
+Los elementos del vector ordenado son: 
+2 6 14 45 58 81 85 88 93 113 141 295 313 430 755 901 951 1186 5378 97123 
+Comparaciones de Ordenamiento: 361
+Intercambios: 87
+Tiempo de ejecución en ms: 0
+
+Busqueda Secuencial 
+Key se encuentra en indice: 8
+Comparaciones de Busqueda: 9
+Tiempo de ejecución en ms: 0
